@@ -1,0 +1,14 @@
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\obj\Debug\net8.0\ContactsAdministration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\obj\Debug\net8.0\ContactsAdministration.AssemblyInfoInputs.cache
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\obj\Debug\net8.0\ContactsAdministration.AssemblyInfo.cs
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\obj\Debug\net8.0\ContactsAdministration.csproj.CoreCompileInputs.cache
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\bin\Debug\net8.0\ContactsAdministration.exe
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\bin\Debug\net8.0\ContactsAdministration.deps.json
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\bin\Debug\net8.0\ContactsAdministration.runtimeconfig.json
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\bin\Debug\net8.0\ContactsAdministration.dll
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\bin\Debug\net8.0\ContactsAdministration.pdb
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\obj\Debug\net8.0\ContactsAdministration.dll
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\obj\Debug\net8.0\refint\ContactsAdministration.dll
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\obj\Debug\net8.0\ContactsAdministration.pdb
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\obj\Debug\net8.0\ContactsAdministration.genruntimeconfig.cache
+C:\Users\Limbo\Documents\Proyectos\C#\ContactsAdministration\obj\Debug\net8.0\ref\ContactsAdministration.dll

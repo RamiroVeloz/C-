@@ -1,0 +1,14 @@
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\bin\Debug\net8.0\ProductInventory.exe
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\bin\Debug\net8.0\ProductInventory.deps.json
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\bin\Debug\net8.0\ProductInventory.runtimeconfig.json
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\bin\Debug\net8.0\ProductInventory.dll
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\bin\Debug\net8.0\ProductInventory.pdb
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\obj\Debug\net8.0\ProductInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\obj\Debug\net8.0\ProductInventory.AssemblyInfoInputs.cache
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\obj\Debug\net8.0\ProductInventory.AssemblyInfo.cs
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\obj\Debug\net8.0\ProductInventory.csproj.CoreCompileInputs.cache
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\obj\Debug\net8.0\ProductInventory.dll
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\obj\Debug\net8.0\refint\ProductInventory.dll
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\obj\Debug\net8.0\ProductInventory.pdb
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\obj\Debug\net8.0\ProductInventory.genruntimeconfig.cache
+C:\Users\Limbo\Documents\Proyectos\C#\ProductInventory\obj\Debug\net8.0\ref\ProductInventory.dll
